@@ -1,0 +1,15 @@
+{
+  "required_api_version": "^2.0.0",
+  "name": "ClassicEmoticons",
+  "description": "ClassicEmoticons extension",
+  "developer_name": "Craft1x",
+  "icon": "images/icon.png",
+  "preferences": [
+    {
+      "id": "classicem_kw",
+      "type": "keyword",
+      "name": "ClassicEmoticons",
+      "default_value": "e"
+    }
+  ]
+}

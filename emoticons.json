@@ -1,0 +1,4020 @@
+{
+	"emoticons": [
+		{
+			"code": ":-|",
+			"name": "Indifferent"
+		},
+		{
+			"code": "#-o",
+			"name": "Doh!"
+		},
+		{
+			"code": "$_$",
+			"name": "Greedy"
+		},
+		{
+			"code": "=D",
+			"name": "Laughing Out Loud"
+		},
+		{
+			"code": ":-)",
+				"name": "Smiley Face"
+		},
+		{
+			"code": "(-:",
+				"name": "Left-handed Smiley Face"
+		},
+		{
+			"code": ":-(",
+				"name": "Frowning"
+		},
+		{
+			"code": "~,~",
+			"name": "Napping"
+		},
+		{
+			"code": ">:)",
+			"name": "Evil Grin"
+		},
+		{
+			"code": ":*)",
+			"name": "Drunk"
+		},
+		{
+			"code": "<l:0",
+			"name": "Partying"
+		},
+		{
+			"code": "*<:o)",
+			"name": "Clown"
+		},
+		{
+			"code": "|-O",
+			"name": "Yawn"
+		},
+		{
+			"code": ":/",
+			"name": "Unsure"
+		},
+		{
+			"code": "=-O",
+			"name": "Uh-oh"
+		},
+		{
+			"code": ":-#",
+			"name": "Braces"
+		},
+		{
+			"code": ":)",
+			"name": "Smile"
+		},
+		{
+			"code": ":o",
+			"name": "Surprised"
+		},
+		{
+			"code": ":-J",
+			"name": "Tongue in Cheek"
+		},
+		{
+			"code": "//_^",
+			"name": "Emo"
+		},
+		{
+			"code": "B-)",
+			"name": "Cool"
+		},
+		{
+			"code": "@~)~~~~",
+			"name": "Rose"
+		},
+		{
+			"code": "^_^",
+			"name": "Overjoyed"
+		},
+		{
+			"code": "<:3)~",
+			"name": "Mouse"
+		},
+		{
+			"code": "<3",
+			"name": "Heart"
+		},
+		{
+			"code": ":(",
+				"name": "Sad"
+		},
+		{
+			"code": ":-Q",
+			"name": "Smoking"
+		},
+		{
+			"code": ":->",
+			"name": "Grin"
+		},
+		{
+			"code": "[¬º-°]¬",
+			"name": "Zombie"
+		},
+		{
+			"code": "XD",
+			"name": "Laughing"
+		},
+		{
+			"code": ":)",
+			"name": "Happy"
+		},
+		{
+			"code": ":S",
+			"name": "Sarcastic"
+		},
+		{
+			"code": "T.T",
+			"name": "Crying"
+		},
+		{
+			"code": ":*",
+			"name": "Kiss"
+		},
+		{
+			"code": ":P",
+			"name": "Sticking Tongue Out"
+		},
+		{
+			"code": "=^.^=",
+			"name": "Cat"
+		},
+		{
+			"code": "O.o",
+			"name": "Confused"
+		},
+		{
+			"code": "<3",
+			"name": "Love"
+		},
+		{
+			"code": ":-P",
+			"name": "Frustrated"
+		},
+		{
+			"code": ":(",
+				"name": "Frown"
+		},
+		{
+			"code": "=8)",
+			"name": "Pig"
+		},
+		{
+			"code": "O:-)",
+			"name": "Angel"
+		},
+		{
+			"code": ")-:",
+			"name": "Left-handed Sad Face"
+		},
+		{
+			"code": "<><",
+			"name": "Fish"
+		},
+		{
+			"code": ":>",
+			"name": "Smug"
+		},
+		{
+			"code": "@",
+			"name": "Mention"
+		},
+		{
+			"code": "8-)",
+			"name": "Glasses"
+		},
+		{
+			"code": ":-D",
+			"name": "Big Grin"
+		},
+		{
+			"code": "(*v*)",
+			"name": "Bird"
+		},
+		{
+			"code": "(-}{-)",
+			"name": "Kissing"
+			},
+			{
+				"code": "(.V.)",
+				"name": "Alien"
+			},
+			{
+				"code": "<\\3",
+				"name": "Broken Heart"
+			},
+			{
+				"code": ";-)",
+				"name": "Winking"
+			},
+			{
+				"code": "X-p",
+				"name": "Joking"
+			},
+			{
+				"code": ":-B",
+				"name": "Nerd"
+			},
+			{
+				"code": "=D",
+				"name": "Very Happy"
+			},
+			{
+				"code": "~:0",
+				"name": "Baby"
+			},
+			{
+				"code": ":-@",
+				"name": "Screaming"
+			},
+			{
+				"code": ":-E",
+				"name": "Vampire"
+			},
+			{
+				"code": "=O",
+				"name": "Shocked"
+			},
+			{
+				"code": ":-",
+				"name": "Undecided"
+			},
+			{
+				"code": "X-(",
+					"name": "Angry"
+			},
+			{
+				"code": "\\:D/",
+				"name": "Dancing"
+			},
+			{
+				"code": ":-&",
+				"name": "Tongue Tied"
+			},
+			{
+				"code": "*-*",
+				"name": "Dazed"
+			},
+			{
+				"code": ":-/",
+				"name": "Perplexed"
+			},
+			{
+				"code": ":-)(-:",
+				"name": "Married"
+			},
+			{
+				"code": "{}",
+				"name": "Hug"
+			},
+			{
+				"code": "=/",
+				"name": "Mad"
+			},
+			{
+				"code": ":o3",
+				"name": "Dog"
+			},
+			{
+				"code": "༼ つ ◕_◕ ༽つ",
+				"name": "Take my energy"
+			},
+			{
+				"code": "¯\\_(ツ)_/¯",
+				"name": "Shrugging"
+			},
+			{
+				"code": "( ´-ω･)︻┻┳══━一",
+				"name": "Sniper"
+			},
+			{
+				"code": "◤◡ᴥ◡◥ ",
+				"name": "Dog"
+			},
+			{
+				"code": "ಠ_ಠ",
+				"name": "Disapproval"
+			},
+			{
+				"code": "＿φ(°-°=)",
+				"name": "Doing homework"
+			},
+			{
+				"code": "(¬_¬\")",
+				"name": "Annoyed"
+			},
+			{
+				"code": "d-(^.^)z",
+				"name": "Thumbs Up"
+			},
+			{
+				"code": "(▀̿Ĺ̯▀̿ ̿)",
+				"name": "Deal with it"
+			},
+			{
+				"code": "(╯°□°)╯︵ ┻━┻",
+				"name": "Flipping Table"
+			},
+			{
+				"code": "༼ ༎ຶ ෴ ༎ຶ༽",
+				"name": "Distraught"
+			},
+			{
+				"code": "^_^",
+				"name": "Overjoyed"
+			},
+			{
+				"code": "♪┏(・o･)┛♪",
+				"name": "Dancing"
+			},
+			{
+				"code": "V●ᴥ●V",
+				"name": "Doggy"
+			},
+			{
+				"code": "(＾▽＾)",
+				"name": "Laughing"
+			},
+			{
+				"code": "Ƹ̵̡Ӝ̵̨̄Ʒ",
+				"name": "Butterfly"
+			},
+			{
+				"code": "|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|",
+				"name": "Stereo"
+			},
+			{
+				"code": "(≧∇≦)/",
+				"name": "Joyful"
+			},
+			{
+				"code": "⋟^≏^⋞",
+				"name": "Kitty Cat"
+			},
+			{
+				"code": "(っ^‿^)っ",
+				"name": "Kirby"
+			},
+			{
+				"code": "┬─┬﻿︵/(.□.)╯",
+				"name": "Table Flips You"
+			},
+			{
+				"code": "⊙▂⊙",
+				"name": "Shocked"
+			},
+			{
+				"code": "ʕ•͡ᴥ•ʔ",
+				"name": "Polar bear"
+			},
+			{
+				"code": "／人◕ ‿‿ ◕人＼",
+				"name": "Kyubey"
+			},
+			{
+				"code": "(◐‿◑)﻿",
+				"name": "Crazy"
+			},
+			{
+				"code": "(´╹〽╹`)",
+				"name": "Worried"
+			},
+			{
+				"code": "(*^o^)人(^o^*)",
+				"name": "Buddies"
+			},
+			{
+				"code": "(ง •̀_•́)ง",
+				"name": "Feisty"
+			},
+			{
+				"code": "(:3 っ)っ",
+				"name": "Walrus"
+			},
+			{
+				"code": "(ﾉﾟ0ﾟ)ﾉ~",
+				"name": "Yoo-Hoo"
+			},
+			{
+				"code": "(∩｀-´)⊃━☆ﾟ.*･｡ﾟ",
+				"name": "Wizard"
+			},
+			{
+				"code": "ฅ(=＾◕ᆺ◕＾=)ฅ",
+				"name": "Cat"
+			},
+			{
+				"code": "⊂((・▽・))⊃",
+				"name": "Hug me"
+			},
+			{
+				"code": "(╯°□°)╯︵ ʞooqǝɔɐɟ",
+				"name": "Flipping Facebook"
+			},
+			{
+				"code": "|∴め ϖ め∴|",
+				"name": "SpongeBob SquarePants"
+			},
+			{
+				"code": ".∵･(ﾟДﾟ)",
+				"name": "Scared"
+			},
+			{
+				"code": "（。々°）",
+				"name": "Herp Derp"
+			},
+			{
+				"code": "❆❅❉",
+				"name": "Snowing"
+			},
+			{
+				"code": "ლ(ಠ益ಠლ)",
+				"name": "But At What Cost"
+			},
+			{
+				"code": "(´>_●)メ(●_<｀)",
+				"name": "Sword Fighting"
+			},
+			{
+				"code": "ʕ •ᴥ•ʔ",
+				"name": "Koala"
+			},
+			{
+				"code": "ᒄ₍⁽ˆ⁰ˆ⁾₎ᒃ♪♬",
+				"name": "Frosty the Snowman"
+			},
+			{
+				"code": "(ɔ◔‿◔)ɔ ♥",
+				"name": "Loving"
+			},
+			{
+				"code": "༼ つ ◕_◕ ༽つ",
+				"name": "Gimme"
+			},
+			{
+				"code": "( ͡° ͜ʖ ͡°)",
+				"name": "Smiling"
+			},
+			{
+				"code": "(－‸ლ)",
+				"name": "Whoops"
+			},
+			{
+				"code": "＝( ^o^)ノ___ｏ",
+				"name": "Bowling"
+			},
+			{
+				"code": "(>_<)",
+				"name": "Painful"
+			},
+			{
+				"code": "¯\\(°_o)/¯",
+				"name": "Confused"
+			},
+			{
+				"code": "(((༼•̫͡•༽)))",
+				"name": "Ghost"
+			},
+			{
+				"code": "U＾ェ＾U",
+				"name": "Puppy"
+			},
+			{
+				"code": "─=≡Σ(([ ⊐•̀⌂•́]⊐",
+					"name": "Superhero"
+			},
+			{
+				"code": "┻━┻ ︵ ヽ(°□°ヽ)",
+				"name": "Flipping table"
+			},
+			{
+				"code": "ᕦ(ò_óˇ)ᕤ",
+				"name": "Flexing"
+			},
+			{
+				"code": "[¬º-°]¬",
+				"name": "Zombie"
+			},
+			{
+				"code": "ᕕ( ᐛ )ᕗ",
+				"name": "Celebrating"
+			},
+			{
+				"code": "( ￣┏＿┓￣)",
+				"name": "Mustache"
+			},
+			{
+				"code": "^-^",
+				"name": "Happy"
+			},
+			{
+				"code": "(;￢_￢)",
+				"name": "Staring"
+			},
+			{
+				"code": "(o￣∇￣)=◯)`ν゜)･",
+				"name": "Punching"
+			},
+			{
+				"code": "ϵ( 'Θ' )϶",
+				"name": "Fish"
+			},
+			{
+				"code": "<コ:彡",
+				"name": "Squid"
+			},
+			{
+				"code": "（￣～￣）",
+				"name": "Unimpressed"
+			},
+			{
+				"code": "[•.•ิ]",
+				"name": "Huh"
+			},
+			{
+				"code": "ε=┏(ﾟロﾟ;)┛",
+				"name": "Running"
+			},
+			{
+				"code": "（/｡＼)",
+				"name": "Shy"
+			},
+			{
+				"code": "ಠ_ರೃ",
+				"name": "Monocle"
+			},
+			{
+				"code": "(>^_^)><(^o^<)",
+				"name": "Hugging"
+			},
+			{
+				"code": "(♥_♥)",
+				"name": "In Love"
+			},
+			{
+				"code": "(;´Д`)",
+				"name": "Giving Up"
+			},
+			{
+				"code": "(ò_ó)",
+				"name": "Furious"
+			},
+			{
+				"code": "o(^▽^)o",
+				"name": "Pumped"
+			},
+			{
+				"code": "(✿◠‿◠) ",
+				"name": "Hippie"
+			},
+			{
+				"code": "Ｃ:。ミ",
+				"name": "Octopus"
+			},
+			{
+				"code": "(–˛ — º)",
+				"name": "Sleeping"
+			},
+			{
+				"code": "(//_^)",
+				"name": "Emo"
+			},
+			{
+				"code": "⊂(◜ᴥ◝)つ",
+				"name": "Teddy Bear"
+			},
+			{
+				"code": "(⊃‿⊂)",
+				"name": "Anticipation"
+			},
+			{
+				"code": "^_^;",
+				"name": "Guilty"
+			},
+			{
+				"code": "(ㆆ_ㆆ)",
+				"name": "Unamused"
+			},
+			{
+				"code": "(p_-)",
+				"name": "Thinking"
+			},
+			{
+				"code": "◦°˚\\☺/˚°◦",
+				"name": "Playing in the snow"
+			},
+			{
+				"code": "-_-;",
+				"name": "Anime Sweat Drop"
+			},
+			{
+				"code": "(^o^)y",
+				"name": "Peace"
+			},
+			{
+				"code": "๏-)",
+				"name": "Cyclops"
+			},
+			{
+				"code": "＿φ( °-°)/",
+				"name": "Doing Homework"
+			},
+			{
+				"code": "(ಥ﹏ಥ)",
+				"name": "Devastated"
+			},
+			{
+				"code": "◖㈠ ω ㈠◗",
+				"name": "Panda"
+			},
+			{
+				"code": "┬┴┬┴┤(･_├┬┴┬┴",
+					"name": "Snooper"
+			},
+			{
+				"code": "ヽ(★ω★)ノ",
+				"name": "Excited"
+			},
+			{
+				"code": "(ᵔᴥᵔ)",
+				"name": "Seal"
+			},
+			{
+				"code": "(∩｀-´)⊃━☆ﾟ.*･｡ﾟ",
+				"name": "Magic Attack"
+			},
+			{
+				"code": "^_^/",
+				"name": "High Five"
+			},
+			{
+				"code": "(´･ω･`)",
+				"name": "Snubbing"
+			},
+			{
+				"code": "(╥﹏╥)",
+				"name": "Sobbing"
+			},
+			{
+				"code": "ლ(ಠ益ಠ)ლ",
+				"name": "Anger"
+			},
+			{
+				"code": "ヽ(｀⌒´メ)ノ",
+				"name": "Angry"
+			},
+			{
+				"code": "T^T",
+				"name": "Crying"
+			},
+			{
+				"code": "<(^oo^)>",
+				"name": "Pig"
+			},
+			{
+				"code": "ヽ(ﾟДﾟ)ﾉ",
+				"name": "Freak Out"
+			},
+			{
+				"code": "૮(-.-)ა",
+				"name": "Sleeping Kirby"
+			},
+			{
+				"code": "˙ ͜ʟ˙",
+				"name": "Content"
+			},
+			{
+				"code": "(;-_-)ノ",
+				"name": "Giving up"
+			},
+			{
+				"code": "⊂(￣(ｴ)￣)⊃",
+				"name": "Bear"
+			},
+			{
+				"code": "(○｀д´)ﾉｼ Σ(っﾟДﾟ)っ",
+				"name": "Chasing"
+			},
+			{
+				"code": "(●∈∋●)",
+				"name": "Bird"
+			},
+			{
+				"code": "(っ⌒‿⌒)っ",
+				"name": "Hug"
+			},
+			{
+				"code": "(；一_一)",
+				"name": "Ashamed"
+			},
+			{
+				"code": "d^_^b",
+				"name": "DJ"
+			},
+			{
+				"code": "(｡▼皿▼)",
+				"name": "Darth Vader"
+			},
+			{
+				"code": "(╭ರ_•́)",
+				"name": "Inquisitive"
+			},
+			{
+				"code": "L(´□｀L)",
+				"name": "Oh No!"
+			},
+			{
+				"code": "T.T",
+				"name": "Sad"
+			},
+			{
+				"code": "｡◕‿◕｡",
+				"name": "Gleeful"
+			},
+			{
+				"code": "(- o - ) zzZ ☽",
+				"name": "Sleepy"
+			},
+			{
+				"code": "( ￣ﾉ∇￣)￣ｰ￣)",
+				"name": "Whispering"
+			},
+			{
+				"code": "( ͡° ʖ̯ ͡°)",
+				"name": "Disgruntled"
+			},
+			{
+				"code": "(〃＾∇＾)】",
+				"name": "On The Phone"
+			},
+			{
+				"code": "⫷ °⧭° ⫸",
+				"name": "Clown"
+			},
+			{
+				"code": "(=^_^=)",
+				"name": "Bunny"
+			},
+			{
+				"code": "y(^ o^)y~~",
+				"name": "Smoking"
+			},
+			{
+				"code": "∋∞(●ﾟvﾟ)∞∈",
+				"name": "Pigtails"
+			},
+			{
+				"code": "(+[__]∙:∙)",
+				"name": "PlayStation Portable"
+			},
+			{
+				"code": "( `_)乂(_' )",
+				"name": "Arm wrestle"
+			},
+			{
+				"code": "ʕʔ",
+				"name": "Bread"
+			},
+			{
+				"code": "(＊☉౪ ⊙｡)ﾉ",
+				"name": "Imbecile"
+			},
+			{
+				"code": "<( ･ｪ-)<}",
+				"name": "Bow and Arrow"
+},
+{
+	"code": "ᕦ❍ᴗ❍ᕤ",
+	"name": "Muscular Person"
+},
+{
+	"code": "ಠᴗಠ",
+	"name": "Scheming"
+},
+{
+	"code": "(‾ʖ̫‾)",
+	"name": "Lethargic"
+},
+{
+	"code": "(ﾉ_ _)ﾉ",
+	"name": "Surrender"
+},
+{
+	"code": "(•͡.•͡)",
+	"name": "Skeptical"
+},
+{
+	"code": "(*@_＊#)",
+	"name": "Beaten Up"
+},
+{
+	"code": "(￣┏∞┓￣)",
+	"name": "Fu Manchu Man"
+},
+{
+	"code": "（　＾＾）人（＾＾　）",
+	"name": "Best Buds"
+},
+{
+	"code": "＿〆(。。)",
+	"name": "Writing"
+},
+{
+	"code": "Facebookノ( º _ ºノ)",
+	"name": "Putting Facebook back after flipping it"
+},
+{
+	"code": "/|\\( ;,; )/|",
+	"name": "Bat"
+},
+{
+	"code": "( • ∀•)っθΘʘ",
+	"name": "Hiding Easter eggs"
+},
+{
+	"code": "-{'''|'''|'''|''']=[]",
+		"name": "Syringe"
+	},
+	{
+		"code": "(°̥̥̥̥̥̥̥̥ᴗ°̥̥̥̥̥̥̥̥)",
+		"name": "Happy crying"
+	},
+	{
+		"code": "(ง •̀ゝ•́)ง",
+		"name": "Fighting"
+	},
+	{
+		"code": "(ﾟ皿ﾟ)ｒ┏┳－*",
+		"name": "Shooting"
+	},
+	{
+		"code": "(-_ゞ",
+			"name": "Groggy"
+	},
+	{
+		"code": "✖‿✖",
+		"name": "Dead person"
+	},
+	{
+		"code": "(☄ฺ◣д◢)☄ฺ",
+		"name": "Scaring"
+	},
+	{
+		"code": "ಥ_ಥ",
+		"name": "Bawling"
+	},
+	{
+		"code": "(ᗒᗣᗕ)",
+		"name": "Frustrated"
+	},
+	{
+		"code": "¬.¬",
+		"name": "Whatever"
+	},
+	{
+		"code": "( ˘ ³˘)♥",
+		"name": "Kiss me"
+	},
+	{
+		"code": "（*＾3＾）",
+		"name": "Pucker up"
+	},
+	{
+		"code": "(#^.^#)",
+		"name": "Embarrassed"
+	},
+	{
+		"code": "◔̯◔",
+		"name": "Rolling Eyes"
+	},
+	{
+		"code": "( ^_^)／",
+		"name": "Waving"
+	},
+	{
+		"code": "＼（＾ ＾）／",
+		"name": "Glad"
+	},
+	{
+		"code": "|д･)",
+		"name": "Hiding"
+	},
+	{
+		"code": "ヘ（。□°）ヘ",
+		"name": "Psycho"
+	},
+	{
+		"code": "(´~`)",
+		"name": "Weary"
+	},
+	{
+		"code": "ヽ( ★ω★)ノ",
+		"name": "Pumped up"
+	},
+	{
+		"code": "(´・ω・)っ由",
+		"name": "Gift"
+	},
+	{
+		"code": "(ó ì_í)=óò=(ì_í ò)",
+		"name": "Bro Pound"
+	},
+	{
+		"code": "ᘛ⁐̤ᕐᐷ",
+		"name": "Chameleon"
+	},
+	{
+		"code": "〠_〠",
+		"name": "Tired"
+	},
+	{
+		"code": "U=･ x ･=U",
+		"name": "Rabbit"
+	},
+	{
+		"code": "（*´▽｀*）",
+		"name": "Infatuated"
+	},
+	{
+		"code": "♪～(￣ε￣；)",
+		"name": "Whistling"
+	},
+	{
+		"code": "‎(>o<)ρミ┳┷┳゜",
+		"name": "Table Tennis"
+	},
+	{
+		"code": "(。･_･)ノ”【】",
+		"name": "Painting"
+	},
+	{
+		"code": "(_ _)..ooOO",
+		"name": "Dreaming"
+	},
+	{
+		"code": "(✖╭╮✖)",
+		"name": "Deceased"
+	},
+	{
+		"code": "(o^-^o)",
+		"name": "Pikachu"
+	},
+	{
+		"code": "ヽ(⌐■_■)ノ♪♬",
+		"name": "Boogie down"
+	},
+	{
+		"code": "ʕ •́؈•̀)",
+		"name": "Winnie the Pooh"
+	},
+	{
+		"code": "o(´^｀)o",
+		"name": "Reluctant"
+	},
+	{
+		"code": "＼(-_- )",
+		"name": "Thank You"
+	},
+	{
+		"code": "(ó㉨ò)",
+		"name": "Bear cub"
+	},
+	{
+		"code": "（￣□￣；）",
+		"name": "Surprised"
+	},
+	{
+		"code": "(((☎)))",
+		"name": "Phone"
+	},
+	{
+		"code": "(ﾉ-o-)ﾉ 中",
+		"name": "Olympic Hammer Throw"
+	},
+	{
+		"code": "「(°ヘ°)",
+		"name": "Puzzled"
+	},
+	{
+		"code": "(¬‿¬)",
+		"name": "Cunning"
+	},
+	{
+		"code": "(* ￣)(￣ *) ",
+		"name": "Kissing"
+	},
+	{
+		"code": "(o • ω • O)つ—♡☆.。.:*・°♡",
+		"name": "Magic casting"
+	},
+	{
+		"code": "((((((^_^;)",
+			"name": "Evading"
+	},
+	{
+		"code": "༼ঢ_㇁ঢ༽",
+		"name": "Bad hair day"
+	},
+	{
+		"code": "(″･ิ_･ิ)っ",
+		"name": "Wait"
+	},
+	{
+		"code": "(ﾟДﾟ≡ﾟДﾟ)",
+		"name": "Frantic"
+	},
+	{
+		"code": "∋(°O°)∈",
+		"name": "Blowfish"
+	},
+	{
+		"code": "ε=┌(^-^)┘",
+		"name": "Skipping"
+	},
+	{
+		"code": "＼（～Ｏ～）／",
+		"name": "Good Morning"
+	},
+	{
+		"code": "(=^･ｪ･^=)",
+		"name": "Kitty"
+	},
+	{
+		"code": "(#×_×)",
+		"name": "Dead"
+	},
+	{
+		"code": "〜〜(／￣▽)／　〜ф",
+		"name": "Chasing A Butterfly"
+	},
+	{
+		"code": "V=(° °)=V",
+		"name": "Crab"
+	},
+	{
+		"code": "(☉__☉”)",
+		"name": "Yikes"
+	},
+	{
+		"code": "(๑´•.̫ • `๑)",
+		"name": "Blushing"
+	},
+	{
+		"code": "⊂(^(工)^)⊃",
+		"name": "Teddy bear"
+	},
+	{
+		"code": "(づ￣ ³￣)づ",
+		"name": "Smooch"
+	},
+	{
+		"code": "(•ᴥ• )́`́'́`́'́⻍",
+		"name": "Porcupine"
+	},
+	{
+		"code": "♪(●′▽`)ﾉ",
+		"name": "Good Night"
+	},
+	{
+		"code": "(´ー｀)┌ﾌｯ",
+		"name": "Golf Clap"
+	},
+	{
+		"code": "ƪ(˘▽˘ƪ)",
+		"name": "Worshiping"
+	},
+	{
+		"code": "(V) (°,,,,°) (V)",
+		"name": "Zoidberg"
+	},
+	{
+		"code": ">.<",
+		"name": "Upset"
+	},
+	{
+		"code": "-ˆ ω ˆ-",
+		"name": "Kitten"
+	},
+	{
+		"code": "✌(გ_㇁გ)✌",
+		"name": "Ringo Starr"
+	},
+	{
+		"code": "＼(^o)(^0^)(o^)／",
+		"name": "Caroling"
+	},
+	{
+		"code": "¤\\( `⌂´ )/¤",
+		"name": "Lifting weights"
+	},
+	{
+		"code": "¯(°_o)/¯",
+		"name": "Confused shrug"
+	},
+	{
+		"code": "( •_•)O °Q(•_• )",
+		"name": "Playing Ping Pong"
+	},
+	{
+		"code": "( ° ᴗ°)~ð ",
+		"name": "Proposal"
+	},
+	{
+		"code": ":-{  -__-:",
+			"name": "Stinky"
+		},
+		{
+			"code": "(っ˘ڡ˘ς)",
+			"name": "Yummy"
+		},
+		{
+			"code": "(๑╹ڡ╹๑)",
+			"name": "Tasty"
+		},
+		{
+			"code": "(¬_¬ )",
+			"name": "Neglected"
+		},
+		{
+			"code": "{{|└(>o< )┘|}}",
+			"name": "Up In Arms"
+		},
+		{
+			"code": "( ｀o´)_θ☆",
+			"name": "Kicking"
+		},
+		{
+			"code": ":-Þ",
+			"name": "Teasing"
+		},
+		{
+			"code": "(▰˘◡˘▰)",
+			"name": "Satisfied"
+		},
+		{
+			"code": "Q('.'Q)",
+			"name": "Put Em Up"
+		},
+		{
+			"code": "( -_-)旦~",
+			"name": "Drinking"
+		},
+		{
+			"code": "(ɔˆ ³(ˆ⌣ˆc)",
+				"name": "Loving couple"
+		},
+		{
+			"code": "(｡♥‿♥｡)",
+			"name": "Smitten"
+		},
+		{
+			"code": "v(^_^)v",
+			"name": "Victory"
+		},
+		{
+			"code": "@( o･ω･)@",
+			"name": "Monkey"
+		},
+		{
+			"code": "(^^)//",
+			"name": "Applause"
+		},
+		{
+			"code": "o(^_-)O",
+			"name": "Boxer"
+		},
+		{
+			"code": "(*￣m￣)",
+			"name": "Dissatisfied"
+		},
+		{
+			"code": "(-□-)︵*",
+			"name": "Blowing a Kiss"
+		},
+		{
+			"code": "⎰≀.☮-☮≀⎰",
+			"name": "John Lennon"
+		},
+		{
+			"code": "\\m/d(^_^)b\\m/",
+			"name": "Rocking Out"
+		},
+		{
+			"code": "ᘛ⁐̤ᕐᐷ",
+			"name": "Mouse"
+		},
+		{
+			"code": "（人’∀’）",
+			"name": "Precious"
+		},
+		{
+			"code": "╹﹏╹",
+			"name": "Cold"
+		},
+		{
+			"code": "＼(＾O＾)／",
+			"name": "Celebrate"
+		},
+		{
+			"code": "(;´ρ`)",
+			"name": "Yawning"
+		},
+		{
+			"code": "(；^＿^)ッ☆(　゜o゜)",
+			"name": "Slapping"
+		},
+		{
+			"code": "m( ﾟ皿ﾟ)m★━━",
+			"name": "Laser"
+		},
+		{
+			"code": "(╯ნ_㇁ნ)╯",
+			"name": "Defeated"
+		},
+		{
+			"code": "┗(･ω･;)┛",
+			"name": "How Should I Know"
+		},
+		{
+			"code": "♫.(◠౪◠).♫",
+			"name": "Jamming to music"
+		},
+		{
+			"code": "⊂ •͡˘∠•͡˘ ⊃",
+			"name": "Suspicious"
+		},
+		{
+			"code": "( ｀皿´)｡ﾐ/",
+			"name": "Hitting"
+		},
+		{
+			"code": "(⌒ ͜ʖ⌒)b",
+			"name": "Attentive"
+		},
+		{
+			"code": "(ɔ˘з˘)ɔ",
+			"name": "Romantic"
+		},
+		{
+			"code": "ʘ‿ʘ",
+			"name": "Eager"
+		},
+		{
+			"code": "└(^o^ )Ｘ( ^o^)┘",
+			"name": "Best buddies"
+		},
+		{
+			"code": "¥[*.*]¥",
+			"name": "Robot"
+		},
+		{
+			"code": "（￢з￢）σ",
+			"name": "Pointing"
+		},
+		{
+			"code": "uwu",
+			"name": "Happy Anime Face"
+		},
+		{
+			"code": "(╯˘ -˘ )╯",
+			"name": "Praying"
+		},
+		{
+			"code": "⪿ ↂ ˒̫̮ ↂ ⫀",
+			"name": "Elton John"
+		},
+		{
+			"code": "┬─┬ノ( º _ ºノ)",
+			"name": "Putting Table Back"
+		},
+		{
+			"code": "( ◢д◣)",
+			"name": "Depressed"
+		},
+		{
+			"code": "੯ू‵ू ໒꒱",
+			"name": "Poodle"
+		},
+		{
+			"code": "(￣▼￣)",
+			"name": "Big Grin"
+		},
+		{
+			"code": "（＿ε＿）",
+			"name": "Kiss my butt"
+		},
+		{
+			"code": "∊ಠ_ಠ∍",
+			"name": "Distressed"
+		},
+		{
+			"code": "{♥‿♥}",
+			"name": "Lovestruck"
+		},
+		{
+			"code": "(^‿◕)",
+			"name": "Winking"
+		},
+		{
+			"code": "(ʘ‿ʘ)",
+			"name": "Smile"
+		},
+		{
+			"code": "(^ _ ^)/~~",
+			"name": "Goodbye"
+		},
+		{
+			"code": "(¬､¬)",
+			"name": "Shifty"
+		},
+		{
+			"code": "( ˘︹˘ )",
+			"name": "Smug"
+		},
+		{
+			"code": "ヽ（´ー｀）┌",
+			"name": "Mellow"
+		},
+		{
+			"code": "ε=(☉_☉)",
+			"name": "Accidental farting"
+		},
+		{
+			"code": "(( ＿ ＿)☆ ≡〇",
+				"name": "Header"
+		},
+		{
+			"code": "＼(｀0´)／",
+			"name": "Fed Up"
+		},
+		{
+			"code": "༎ຶ‿༎ຶ",
+			"name": "Dead Inside"
+		},
+		{
+			"code": "(╯‵Д′)╯",
+			"name": "Scary"
+		},
+		{
+			"code": "d(^_^)b",
+			"name": "Listening to Music"
+		},
+		{
+			"code": "8(>_<)8",
+			"name": "Jealous"
+		},
+		{
+			"code": "◖⎚∠⎚◗",
+			"name": "Geek"
+		},
+		{
+			"code": "(о＾ω＾о)",
+			"name": "Giggling"
+		},
+		{
+			"code": "(o´・Υ・)ﾉ･",
+			"name": "Help"
+		},
+		{
+			"code": "(。_°)☆",
+			"name": "Punched"
+		},
+		{
+			"code": "^)_(^",
+			"name": "Chubby"
+		},
+		{
+			"code": "(*・_・)ノ⌒*",
+			"name": "Throwing Away"
+		},
+		{
+			"code": "且_(ﾟ◇ﾟ；)ノﾞ",
+			"name": "Waiter"
+		},
+		{
+			"code": "†_(ﾟｰﾟ*)β",
+			"name": "Exorcism"
+		},
+		{
+			"code": "( --)/ ==卍",
+			"name": "Ninja Star"
+		},
+		{
+			"code": ":þ",
+			"name": "Playful"
+		},
+		{
+			"code": "｡･ﾟﾟ･(>д<)･ﾟﾟ･｡",
+			"name": "Weeping"
+		},
+		{
+			"code": "┳┻┳°",
+			"name": "Ping Pong table"
+		},
+		{
+			"code": "㐈⦁ཽし⦁ཽ㐈 ",
+			"name": "Larry David"
+		},
+		{
+			"code": "༼ঢ_༽ঢ༽",
+			"name": "Perplexed"
+		},
+		{
+			"code": "(`_^)",
+			"name": "Wink"
+		},
+		{
+			"code": "☉ϖ☉",
+			"name": "Lobster"
+		},
+		{
+			"code": "(*｀へ´*)",
+			"name": "Livid"
+		},
+		{
+			"code": "(((((^_^)",
+				"name": "Teleporting"
+		},
+		{
+			"code": "∊♡_ᴥ_♡∍",
+			"name": "Puppy Love"
+		},
+		{
+			"code": "(＾▽＾)",
+			"name": "Cheerful"
+		},
+		{
+			"code": "(*▿▿* ƪ)",
+			"name": "Vampire"
+		},
+		{
+			"code": "( ˇ෴ˇ )",
+			"name": "Hipster"
+		},
+		{
+			"code": "♥‿♥",
+			"name": "Enamored"
+		},
+		{
+			"code": "ε=ε=ε=┌(๑ʘ∀ʘ)┘",
+			"name": "Sprinting"
+		},
+		{
+			"code": "o(^^o)(o^^)o",
+			"name": "Hopeful"
+		},
+		{
+			"code": "ლ(´ڡ`ლ)",
+			"name": "Licking"
+		},
+		{
+			"code": "^(#｀∀´)_Ψ",
+			"name": "Demon"
+		},
+		{
+			"code": "(*^^)^*)",
+			"name": "Kiss"
+		},
+		{
+			"code": "(。。;)＼(-_-)",
+			"name": "Comforting"
+		},
+		{
+			"code": "(￣ー￣（＿　＿（",
+				"name": "Nodding"
+		},
+		{
+			"code": "<(;￣ ･￣)",
+			"name": "Scratching"
+		},
+		{
+			"code": "(+.+)(-.-)(_ _)",
+			"name": "Falling Asleep"
+		},
+		{
+			"code": "(~_(]=--Z(◡˘)",
+				"name": "Pie Fight"
+		},
+		{
+			"code": "^o^",
+			"name": "Mog"
+		},
+		{
+			"code": "(╬☉Д⊙ฺ)",
+			"name": "Cyborg"
+		},
+		{
+			"code": "[ ± _ ± ]",
+			"name": "Sick"
+		},
+		{
+			"code": "^^",
+			"name": "Blissful"
+		},
+		{
+			"code": "(*・)σσ(*゜O゜)",
+			"name": "Poking"
+		},
+		{
+			"code": "←(･_･┐)",
+			"name": "Looking"
+		},
+		{
+			"code": "(￣ー￣)//””",
+			"name": "Clapping"
+		},
+		{
+			"code": "(／o^)/°⊥＼(^o＼)",
+			"name": "Volleyball"
+		},
+		{
+			"code": "\\\\(<.<|>.>)//",
+			"name": "Panicking"
+		},
+		{
+			"code": "/( ＿0＿)￣θ☆≡≡○",
+			"name": "Scissor Kick"
+		},
+		{
+			"code": "⨌⨀_⨀⨌",
+			"name": "Benjamin Franklin"
+		},
+		{
+			"code": "◖ර◞ʖ◟ර◗",
+			"name": "Grandma"
+		},
+		{
+			"code": "(^o^)",
+			"name": "Singing"
+		},
+		{
+			"code": "(/ω･＼)",
+			"name": "Peering"
+		},
+		{
+			"code": "ヾ(*￣O￣)ツ",
+			"name": "Yelling"
+		},
+		{
+			"code": "^;;^",
+			"name": "Spider"
+		},
+		{
+			"code": "[]゛７(∀゜*）",
+				"name": "Dialing"
+		},
+		{
+			"code": "\\＿(´▽｀)♪＿/",
+			"name": "Bathtub"
+		},
+		{
+			"code": "ε=┌( ≧▽)┘",
+			"name": "Elated"
+		},
+		{
+			"code": "[-_-]~",
+			"name": "Ninja"
+		},
+		{
+			"code": "｡｡｡(o_ _)o⌒☆",
+			"name": "Tripping"
+		},
+		{
+			"code": "└(^o^)┐",
+			"name": "Grooving"
+		},
+		{
+			"code": "（。_°☆＼(- – )",
+			"name": "Punch"
+		},
+		{
+			"code": "(∿°○°)∿ ︵ ǝʌol",
+			"name": "Heartbroken"
+		},
+		{
+			"code": "___ψ(‥ )",
+			"name": "Studying"
+		},
+		{
+			"code": "( ^□)_へ━━━━━⊃>°))))彡",
+			"name": "Fishing"
+		},
+		{
+			"code": "(⊙_◎)",
+			"name": "Crazed"
+		},
+		{
+			"code": "(*’(OO)’*)",
+			"name": "Piggy"
+		},
+		{
+			"code": "ƪ(˘⌣˘)ʃ",
+			"name": "Raise the roof"
+		},
+		{
+			"code": "～゜・_・゜～",
+			"name": "Raving"
+		},
+		{
+			"code": "ᡕᠵ᠊ᡃ່࡚ࠢ࠘⸝່ࠡࠣ᠊᠆ࠣᡁࠣ࠘᠊᠊ࠢ࠘᠊᠊ࠢ࠘~♡",
+			"name": "Shot in the heart"
+		},
+		{
+			"code": "←～（o ｀▽´ )oΨ",
+			"name": "Satan"
+		},
+		{
+			"code": "✺◟(•‿•)◞✺",
+			"name": "Cheerleader"
+		},
+		{
+			"code": "o(>< )o⌒*",
+			"name": "Mad"
+		},
+		{
+			"code": "(シ_ _)シ",
+			"name": "Apology"
+		},
+		{
+			"code": "（＾～＾）",
+			"name": "Meh"
+		},
+		{
+			"code": "੯ू•́ू ໒꒱⁼³₌₃",
+			"name": "Sonic the Hedgehog"
+		},
+		{
+			"code": "(o`ꇴ´o)",
+			"name": "Cheeky"
+		},
+		{
+			"code": "┌|°з°|┘",
+			"name": "Cutting a rug"
+		},
+		{
+			"code": "˃ʍ˂",
+			"name": "Enraged"
+		},
+		{
+			"code": "(^̮^)",
+			"name": "Pleased"
+		},
+		{
+			"code": "（￣へ￣）",
+			"name": "Discontent"
+		},
+		{
+			"code": "┗( ●-﹏ ｀｡)づ",
+			"name": "Hurt"
+		},
+		{
+			"code": "└@(･ｪ･)@┐",
+			"name": "Beefcake"
+		},
+		{
+			"code": "(㇏(•̀ᵥᵥ•́)ノ)",
+			"name": "Vampire Bat"
+		},
+		{
+			"code": "ᕦ◉▿◉ᕤ",
+			"name": "Owl"
+		},
+		{
+			"code": "(╯_╰)",
+			"name": "Bummed out"
+		},
+		{
+			"code": "（ つ Д ｀）",
+			"name": "Wiping Tears"
+		},
+		{
+			"code": "(๑≖ิิ益≖ิ๑)",
+			"name": "Evil Laugh"
+		},
+		{
+			"code": "▼o･_･o▼",
+			"name": "Hello"
+		},
+		{
+			"code": "•:_:•",
+			"name": "Nagato"
+		},
+		{
+			"code": "（*・)｢｣｢｣",
+			"name": "Magic Casting"
+		},
+		{
+			"code": "ε-(´・｀) ﾌ",
+			"name": "Phew"
+		},
+		{
+			"code": "( `_)?(_' )",
+			"name": "Dueling"
+		},
+		{
+			"code": "O(<>'<>)O",
+			"name": "Aang"
+		},
+		{
+			"code": ":(¦)",
+			"name": "Frog"
+		},
+		{
+			"code": "(´∪`*)",
+			"name": "Friendly"
+		},
+		{
+			"code": "（　＾）／占~~~",
+			"name": "Banksy"
+		},
+		{
+			"code": "٩◔̯◔۶",
+			"name": "Eye Roll With Hands Up"
+		},
+		{
+			"code": "(-_-)#",
+			"name": "Girl"
+		},
+		{
+			"code": "ヾ(｀ε´)ﾉ",
+			"name": "Booing"
+		},
+		{
+			"code": "ᡊ|◔じ◔|ᡊ ",
+			"name": "Woody Allen"
+		},
+		{
+			"code": "（´Д゜）/゜⌒。",
+			"name": "Discarding"
+		},
+		{
+			"code": "Ⅽ( O ∪ O )Ↄ",
+			"name": "Surprise"
+		},
+		{
+			"code": "(｡･ˇдˇ･｡)",
+			"name": "Pompous"
+		},
+		{
+			"code": "(／。＼)",
+			"name": "Frightened"
+		},
+		{
+			"code": "._.",
+			"name": "Depressed"
+		},
+		{
+			"code": "(#_#)",
+			"name": "Beaten Up"
+		},
+		{
+			"code": ":-J",
+			"name": "Tongue in Cheek"
+		},
+		{
+			"code": "(//_-)",
+			"name": "Emo"
+		},
+		{
+			"code": ";^)",
+			"name": "Wink"
+		},
+		{
+			"code": "ಠ_ಠ",
+			"name": "Disapproval"
+		},
+		{
+			"code": ">.<",
+			"name": "Sour"
+		},
+		{
+			"code": ":p",
+			"name": "Teasing"
+		},
+		{
+			"code": "B-)",
+			"name": "Cool"
+		},
+		{
+			"code": "(¬_¬\")",
+			"name": "Annoyed"
+		},
+		{
+			"code": "༼ ༎ຶ ෴ ༎ຶ༽",
+			"name": "Distraught"
+		},
+		{
+			"code": "^_^",
+			"name": "Overjoyed"
+		},
+		{
+			"code": "(≧∇≦)/",
+			"name": "Joyful"
+		},
+		{
+			"code": "⊙▂⊙",
+			"name": "Shocked"
+		},
+		{
+			"code": ":-&",
+			"name": "Sick"
+		},
+		{
+			"code": ":c",
+			"name": "Sad "
+		},
+		{
+			"code": "⊂((・▽・))⊃",
+			"name": "Hug me"
+		},
+		{
+			"code": "（。々°）",
+			"name": "Herp Derp"
+		},
+		{
+			"code": "ლ(ಠ益ಠლ)",
+			"name": "But At What Cost"
+		},
+		{
+			"code": "( ͡° ͜ʖ ͡°)",
+			"name": "Smiling"
+		},
+		{
+			"code": "~_~",
+			"name": "Sleepy"
+		},
+		{
+			"code": "#-)",
+			"name": "Blinking"
+		},
+		{
+			"code": ":-L",
+			"name": "Frustrated"
+		},
+		{
+			"code": "(－‸ლ)",
+			"name": "Whoops"
+		},
+		{
+			"code": "(>_<)",
+			"name": "Painful"
+		},
+		{
+			"code": ":->",
+			"name": "Grin"
+		},
+		{
+			"code": "^.^",
+			"name": "Happy "
+		},
+		{
+			"code": ":D",
+			"name": "Big Grin"
+		},
+		{
+			"code": ">_<",
+			"name": "Mad "
+		},
+		{
+			"code": "(ò_ó)",
+			"name": "Furious"
+		},
+		{
+			"code": "o(^▽^)o",
+			"name": "Pumped"
+		},
+		{
+			"code": "(♥_♥)",
+			"name": "In Love"
+		},
+		{
+			"code": ";^)",
+			"name": "Smirking"
+		},
+		{
+			"code": ":-w",
+			"name": "Waiting"
+		},
+		{
+			"code": "^_^;",
+			"name": "Guilty"
+		},
+		{
+			"code": ".-.",
+			"name": "Upside Down"
+		},
+		{
+			"code": "@_@",
+			"name": "Mesmerized"
+		},
+		{
+			"code": "-_-",
+			"name": "Whatever"
+		},
+		{
+			"code": "(p_-)",
+			"name": "Thinking"
+		},
+		{
+			"code": "|:",
+			"name": "Unimpressed"
+		},
+		{
+			"code": "=^_^=",
+			"name": "Blushing"
+		},
+		{
+			"code": "(ㆆ_ㆆ)",
+			"name": "Unamused"
+		},
+		{
+			"code": "(#^.^#)",
+			"name": "Shy"
+		},
+		{
+			"code": "^^\"",
+			"name": "Embarrassed"
+		},
+		{
+			"code": ":<",
+			"name": "Pout"
+		},
+		{
+			"code": ":S",
+			"name": "Sarcastic"
+		},
+		{
+			"code": "(o:(>*",
+				"name": "Clown"
+		},
+		{
+			"code": "ლ(ಠ益ಠ)ლ",
+			"name": "Anger"
+		},
+		{
+			"code": "O.o",
+			"name": "Confused "
+		},
+		{
+			"code": ">:3",
+			"name": "Evil Cuteness"
+		},
+		{
+			"code": "(.\\|/.)",
+			"name": "Evil Face"
+		},
+		{
+			"code": "<3",
+			"name": "Love"
+		},
+		{
+			"code": ":(",
+				"name": "Frown"
+		},
+		{
+			"code": ":'(",
+				"name": "Crying"
+		},
+		{
+			"code": "x_x",
+			"name": "Dead"
+		},
+		{
+			"code": "( ͡° ʖ̯ ͡°)",
+			"name": "Disgruntled"
+		},
+		{
+			"code": ":\")",
+			"name": "Happy Tears"
+		},
+		{
+			"code": "o.o?",
+			"name": "Wondering"
+		},
+		{
+			"code": "\\m/@_@\\m/",
+			"name": "Rock On"
+		},
+		{
+			"code": ":#",
+			"name": "Zip It"
+		},
+		{
+			"code": "(doh)",
+			"name": "Doh!"
+		},
+		{
+			"code": "ヽ( ★ω★)ノ",
+			"name": "Pumped up"
+		},
+		{
+			"code": "(★^O^★)",
+			"name": "Excited"
+		},
+		{
+			"code": "XD",
+			"name": "Hyper"
+		},
+		{
+			"code": ":-0>",
+			"name": "Yuck Face"
+		},
+		{
+			"code": ":-|",
+			"name": "Disappointed"
+		},
+		{
+			"code": "-_-",
+			"name": "Squinting"
+		},
+		{
+			"code": "%-}",
+			"name": "Dizzy"
+	},
+	{
+		"code": ":|",
+		"name": "Straight face"
+	},
+	{
+		"code": "^#(^",
+			"name": "It Was Not Me"
+	},
+	{
+		"code": "(>.<)",
+		"name": "Doh"
+	},
+	{
+		"code": ":>",
+		"name": "Smug"
+	},
+	{
+		"code": "#-)",
+		"name": "Exhausted"
+	},
+	{
+		"code": ":-I",
+		"name": "Poker Face"
+	},
+	{
+		"code": ": T",
+		"name": "Doubtful"
+	},
+	{
+		"code": "?-(",
+			"name": "Black Eye"
+	},
+	{
+		"code": ":-o",
+		"name": "Alarmed"
+	},
+	{
+		"code": ":<",
+		"name": "Unhappy"
+	},
+	{
+		"code": ".-)",
+		"name": "One-Eyed Smile"
+	},
+	{
+		"code": ">w<",
+		"name": "Worried"
+	},
+	{
+		"code": "%.)",
+		"name": "Staring at a Screen for Too Long"
+	},
+	{
+		"code": ")-:",
+		"name": "Left-handed Sad Face"
+	},
+	{
+		"code": "&:-]",
+		"name": "Handsome"
+	},
+	{
+		"code": "#(,'%/)",
+		"name": "Slept Too Long"
+	},
+	{
+		"code": ">:(",
+			"name": "Angry "
+	},
+	{
+		"code": ">:D",
+		"name": "Evil Laugh"
+	},
+	{
+		"code": "D:",
+		"name": "Scared"
+	},
+	{
+		"code": ":-1",
+		"name": "Smirk"
+	},
+	{
+		"code": "(ノ´ロ`)ノ",
+		"name": "Devastated"
+	},
+	{
+		"code": "X-p",
+		"name": "Joking"
+	},
+	{
+		"code": "(*°∀°)=3",
+		"name": "Infatuated"
+	},
+	{
+		"code": "=D",
+		"name": "Very Happy"
+	},
+	{
+		"code": "?8}",
+		"name": "Mischievous"
+},
+{
+	"code": "0:-)",
+	"name": "Innocent"
+},
+{
+	"code": "\\o/",
+	"name": "Praise The Lord"
+},
+{
+	"code": "^w^",
+	"name": "Anime Smile"
+},
+{
+	"code": "}:)",
+	"name": "Horny"
+},
+{
+	"code": ":-r",
+	"name": "Sticking Tongue Out"
+},
+{
+	"code": ">.<",
+	"name": "Upset"
+},
+{
+	"code": "=P",
+	"name": "Silly"
+},
+{
+	"code": "(ñ_ñ)",
+	"name": "Fake Smile"
+},
+{
+	"code": "*~*",
+	"name": "Star Gazed"
+},
+{
+	"code": "B-}",
+	"name": "Funny"
+},
+{
+	"code": "(*￣m￣)",
+	"name": "Dissatisfied"
+},
+{
+	"code": "^:)^",
+	"name": "Not Worthy"
+},
+{
+	"code": "(o_O)",
+	"name": "Incredulous"
+},
+{
+	"code": ":^)",
+	"name": "I Do Not Know"
+},
+{
+	"code": "d :-o",
+	"name": "Hats off to you"
+},
+{
+	"code": "*_*",
+	"name": "Dazed"
+},
+{
+	"code": "~^.^~",
+	"name": "Gleeful"
+},
+{
+	"code": "._.",
+	"name": "Inadequate"
+},
+{
+	"code": ":-{}",
+	"name": "Cold"
+},
+{
+	"code": "uwu",
+	"name": "Happy Anime Face"
+},
+{
+	"code": "{♥‿♥}",
+	"name": "Lovestruck"
+},
+{
+	"code": "V (*_*) V",
+	"name": "Peace"
+},
+{
+	"code": ":/",
+	"name": "Skeptical"
+},
+{
+	"code": "|-(",
+		"name": "Dull"
+},
+{
+	"code": "n_n",
+	"name": "Cute"
+},
+{
+	"code": "%-6",
+	"name": "Brain Dead"
+},
+{
+	"code": ":-",
+	"name": "Undecided"
+},
+{
+	"code": ">-<",
+	"name": "Livid"
+},
+{
+	"code": "8-]",
+	"name": "Googly-Eyed"
+},
+{
+	"code": "༎ຶ‿༎ຶ",
+	"name": "Dead Inside"
+},
+{
+	"code": "8(>_<)8",
+	"name": "Jealous"
+},
+{
+	"code": "%-)",
+	"name": "Crazy"
+},
+{
+	"code": "#:-S",
+	"name": "Whew"
+},
+{
+	"code": "P:",
+	"name": "Upward Lick"
+},
+{
+	"code": "(＾▽＾)",
+	"name": "Cheerful"
+},
+{
+	"code": "(∿°○°)∿ ︵ ǝʌol",
+	"name": "Heartbroken"
+},
+{
+	"code": "(>_<)>",
+	"name": "Troubled"
+},
+{
+	"code": ":-(*)",
+	"name": "Gag Me"
+},
+{
+	"code": ":-T",
+	"name": "Tight Lipped"
+},
+{
+	"code": "':-(",
+		"name": "One Eyebrow"
+},
+{
+	"code": "=:o",
+	"name": "Gasp"
+},
+{
+	"code": ">:(",
+		"name": "Grumpy"
+},
+{
+	"code": ":-/",
+	"name": "Perplexed"
+},
+{
+	"code": ":-)(-:",
+	"name": "Married"
+},
+{
+	"code": ";@",
+	"name": "Steaming Mad"
+},
+{
+	"code": "(o`ꇴ´o)",
+	"name": "Cheeky"
+},
+{
+	"code": "^(:)v",
+	"name": "Being Well Doing Good"
+},
+{
+	"code": ":-&",
+	"name": "Tongue Tied"
+},
+{
+	"code": ":-9",
+	"name": "Yum"
+},
+{
+	"code": "Oo!",
+	"name": "Dumbfounded"
+},
+{
+	"code": "=_=",
+	"name": "Tired"
+},
+{
+	"code": "8-|",
+	"name": "Frightened"
+},
+{
+	"code": "(╯_╰)",
+	"name": "Bummed out"
+},
+{
+	"code": "┗( ●-﹏ ｀｡)づ",
+	"name": "Hurt"
+},
+{
+	"code": "&;-P",
+	"name": "Suave"
+},
+{
+	"code": ":-j",
+	"name": "Oh Go On"
+},
+{
+	"code": "@?@",
+	"name": "Stunned"
+},
+{
+	"code": ":-((",
+		"name": "Very Sad"
+},
+{
+	"code": "-.-",
+	"name": "Lame"
+},
+{
+	"code": "%-(",
+		"name": "Broken Glasses"
+},
+{
+	"code": ":-Y",
+	"name": "Side Comment"
+},
+{
+	"code": "[-(",
+		"name": "Not talking"
+},
+{
+	"code": "-.-",
+	"name": "Stressed"
+},
+{
+	"code": "^^",
+	"name": "Blissful"
+},
+{
+	"code": "?-(",
+		"name": "Sorry"
+},
+{
+	"code": ":-!",
+	"name": "Foot in Mouth"
+},
+{
+	"code": ":-D",
+	"name": "Open-Mouthed Smile"
+},
+{
+	"code": ":*)O",
+	"name": "Kool"
+},
+{
+	"code": "H-)",
+	"name": "Cross-Eyed"
+},
+{
+	"code": "?_?",
+	"name": "Irritated"
+},
+{
+	"code": ">=D",
+	"name": "Revenge"
+},
+{
+	"code": ">:-I",
+	"name": "Mean"
+},
+{
+	"code": ":-X",
+	"name": "Lips are Sealed"
+},
+{
+	"code": ":-{}",
+	"name": "Lots of Lipstick"
+},
+{
+	"code": "<@> <@>",
+	"name": "Look at Me"
+},
+{
+	"code": "p^b",
+	"name": "Dumb"
+},
+{
+	"code": ":|",
+	"name": "Speechless"
+},
+{
+	"code": ":<)",
+	"name": "Snobby"
+},
+{
+	"code": "%*}",
+	"name": "Very Drunk"
+},
+{
+	"code": "~X(",
+		"name": "At Wits End"
+},
+{
+	"code": "x:-/",
+	"name": "Uncertain"
+},
+{
+	"code": "`:-)",
+	"name": "Sweating"
+},
+{
+	"code": "0_o",
+	"name": "Spaced Out"
+},
+{
+	"code": "(({..}))",
+	"name": "Headache"
+},
+{
+	"code": ":B",
+	"name": "Bucktooth"
+},
+{
+	"code": "@-)",
+	"name": "Hypnotized"
+},
+{
+	"code": "~!~",
+	"name": "Humbled"
+},
+{
+	"code": "%*@:-(",
+		"name": "Hung Over"
+},
+{
+	"code": "=')",
+	"name": "Touched"
+},
+{
+	"code": ">=)",
+	"name": "Evil Smile"
+},
+{
+	"code": ":0",
+	"name": "Hungry"
+},
+{
+	"code": ";D",
+	"name": "Flirting"
+},
+{
+	"code": "=)=",
+	"name": "Mixed Feelings"
+},
+{
+	"code": "(@.@)",
+	"name": "Paranoid"
+},
+{
+	"code": ":-$",
+	"name": "Money Mouth"
+},
+{
+	"code": "=P~",
+	"name": "Drooling"
+},
+{
+	"code": "'8^P",
+	"name": "Blah"
+},
+{
+	"code": "(─‿‿─)",
+	"name": "Pleased"
+},
+{
+	"code": ";T",
+	"name": "Playful"
+},
+{
+	"code": ":§",
+	"name": "Disgusted"
+},
+{
+	"code": ":S",
+	"name": "Awkward"
+},
+{
+	"code": "(lol)",
+	"name": "Laughing Out Loud"
+},
+{
+	"code": ":-[",
+		"name": "Despondent"
+},
+{
+	"code": ".'T",
+	"name": "Straight Face"
+},
+{
+	"code": ":-",
+	"name": "Yelling"
+},
+{
+	"code": "/^^\\!",
+	"name": "Exasperated"
+},
+{
+	"code": ":-o",
+	"name": "Bored"
+},
+{
+	"code": ": 0=/--",
+	"name": "Gag me"
+},
+{
+	"code": ">>",
+	"name": "Rolling Eyes"
+},
+{
+	"code": "(-_-)#",
+	"name": "Girl"
+},
+{
+	"code": "8-O",
+	"name": "Wide-eyed"
+},
+{
+	"code": "..._(:)-o",
+	"name": "Scuba Diver"
+},
+{
+	"code": "8|___)",
+	"name": "Big Laugh"
+},
+{
+	"code": ":x",
+	"name": "Love Struck"
+},
+{
+	"code": "(:>-<",
+		"name": "Hands Up"
+},
+{
+	"code": "=((",
+		"name": "Broken Heart"
+},
+{
+	"code": "|:-|",
+	"name": "Stern"
+},
+{
+	"code": "|-[#]",
+	"name": "Fuming"
+},
+{
+	"code": ">:-[",
+		"name": "Pouting"
+},
+{
+	"code": ".'!",
+	"name": "Grim"
+},
+{
+	"code": ">-$",
+	"name": "Scowling"
+},
+{
+	"code": "(:-#",
+		"name": "Keeping Quiet"
+},
+{
+	"code": ":-8(",
+		"name": "Condescending"
+},
+{
+	"code": "b-(",
+		"name": "Beat Up"
+},
+{
+	"code": "/:)",
+	"name": "Raised Eyebrow"
+},
+{
+	"code": ":-]",
+	"name": "Jovial"
+},
+{
+	"code": "X:-|",
+	"name": "Bed Head"
+},
+{
+	"code": "(-!",
+		"name": "Winking"
+},
+{
+	"code": "$-)",
+	"name": "Money Eyes"
+},
+{
+	"code": ";-)",
+	"name": "Flirty"
+},
+{
+	"code": ":7/",
+	"name": "Indecisive"
+},
+{
+	"code": "*KISSED*",
+	"name": "Kissed"
+},
+{
+	"code": ":-",
+	"name": "Hmmm"
+},
+{
+	"code": "(X^(*",
+		"name": "Sour Face"
+},
+{
+	"code": ":-S",
+	"name": "Incoherent"
+},
+{
+	"code": "§)",
+	"name": "Insane"
+},
+{
+	"code": "*JOKINGLY*",
+	"name": "Jokingly"
+},
+{
+	"code": "d=P",
+	"name": "Ghetto"
+},
+{
+	"code": "[>#<]",
+	"name": "Grouchy"
+},
+{
+	"code": "8-[",
+		"name": "Afraid"
+},
+{
+	"code": "o_0",
+	"name": "Bewildered"
+},
+{
+	"code": ">;D",
+	"name": "Stoked"
+},
+{
+	"code": "D';",
+	"name": "FML"
+},
+{
+	"code": "L-:",
+	"name": "Half Smile"
+},
+{
+	"code": "|-I",
+	"name": "Asleep"
+},
+{
+	"code": "#-o",
+	"name": "Doh!"
+},
+{
+	"code": "=D",
+	"name": "Laughing Out Loud"
+},
+{
+	"code": "~,~",
+	"name": "Napping"
+},
+{
+	"code": "<l:0",
+	"name": "Partying"
+},
+{
+	"code": ":-(",
+		"name": "Frowning"
+},
+{
+	"code": "|-O",
+	"name": "Yawn"
+},
+{
+	"code": "༼ つ ◕_◕ ༽つ",
+	"name": "Take my energy"
+},
+{
+	"code": "¯\\_(ツ)_/¯",
+	"name": "Shrugging"
+},
+{
+	"code": "(*¬*)",
+	"name": "Drooling"
+},
+{
+	"code": "＿φ(°-°=)",
+	"name": "Doing homework"
+},
+{
+	"code": "d-_-b",
+	"name": "Listening to Music"
+},
+{
+	"code": "d-(^.^)z",
+	"name": "Thumbs Up"
+},
+{
+	"code": "(╯°□°)╯︵ ┻━┻",
+	"name": "Flipping Table"
+},
+{
+	"code": "♪┏(・o･)┛♪",
+	"name": "Dancing "
+},
+{
+	"code": "(＾▽＾)",
+	"name": "Laughing "
+},
+{
+	"code": "(ﾉﾟ0ﾟ)ﾉ~",
+	"name": "Yoo-Hoo"
+},
+{
+	"code": "(╯°□°)╯︵ ʞooqǝɔɐɟ",
+	"name": "Flipping Facebook"
+},
+{
+	"code": "❆❅❉",
+	"name": "Snowing"
+},
+{
+	"code": "(´>_●)メ(●_<｀)",
+	"name": "Sword Fighting"
+},
+{
+	"code": "(ɔ◔‿◔)ɔ ♥",
+	"name": "Loving"
+},
+{
+	"code": "\\m/",
+	"name": "Rocking"
+},
+{
+	"code": "-_-",
+	"name": "Sleeping "
+},
+{
+	"code": "\\m/ >_< \\m/",
+	"name": "Rocking Out"
+},
+{
+	"code": "ᕙ(`▽´)ᕗ",
+	"name": "Flexing"
+},
+{
+	"code": ":-\"",
+	"name": "Whistling"
+},
+{
+	"code": "＝( ^o^)ノ___ｏ",
+	"name": "Bowling"
+},
+{
+	"code": ":-Q",
+	"name": "Smoking "
+},
+{
+	"code": "┻━┻ ︵ ヽ(°□°ヽ)",
+	"name": "Flipping table"
+},
+{
+	"code": "ᕕ( ᐛ )ᕗ",
+	"name": "Celebrating"
+},
+{
+	"code": "(;￢_￢)",
+	"name": "Staring"
+},
+{
+	"code": "ε=┏(ﾟロﾟ;)┛",
+	"name": "Running"
+},
+{
+	"code": "(>^_^)><(^o^<)",
+	"name": "Hugging"
+},
+{
+	"code": ";-;",
+	"name": "Crying "
+},
+{
+	"code": ":-?",
+	"name": "Thinking"
+},
+{
+	"code": ">:P",
+	"name": "Phbbbbt"
+},
+{
+	"code": "◦°˚\\☺/˚°◦",
+	"name": "Playing in the snow"
+},
+{
+	"code": ">:O",
+	"name": "Yelling"
+},
+{
+	"code": "(^o^)y",
+	"name": "Peace"
+},
+{
+	"code": "＿φ( °-°)/",
+	"name": "Doing Homework"
+},
+{
+	"code": ":*",
+	"name": "Kiss "
+},
+{
+	"code": "(∩｀-´)⊃━☆ﾟ.*･｡ﾟ",
+	"name": "Magic Attack"
+},
+{
+	"code": "^_^/",
+	"name": "High Five"
+},
+{
+	"code": ":P",
+	"name": "Sticking Tongue Out"
+},
+{
+	"code": "(╥﹏╥)",
+	"name": "Sobbing"
+},
+{
+	"code": "(;-_-)ノ",
+	"name": "Giving up"
+},
+{
+	"code": ">.>",
+	"name": "Looking"
+},
+{
+	"code": "(っ⌒‿⌒)っ",
+	"name": "Hug"
+},
+{
+	"code": "( ￣ﾉ∇￣)￣ｰ￣)",
+	"name": "Whispering"
+},
+{
+	"code": "m(_ _)m",
+	"name": "Bowing"
+},
+{
+	"code": ";))",
+	"name": "Giggle"
+},
+{
+	"code": "(ง •̀ゝ•́)ง",
+	"name": "Fighting"
+},
+{
+	"code": "((ง’ω’)و三 ง’ω’)ڡ≡ ☆⌒ﾐ((x_x)",
+		"name": "Punching"
+},
+{
+	"code": "(☄ฺ◣д◢)☄ฺ",
+	"name": "Scaring"
+},
+{
+	"code": "＿〆(。。)",
+	"name": "Writing"
+},
+{
+	"code": ":#",
+	"name": "Swearing"
+},
+{
+	"code": "(°̥̥̥̥̥̥̥̥ᴗ°̥̥̥̥̥̥̥̥)",
+	"name": "Happy crying"
+},
+{
+	"code": "( • ∀•)っθΘʘ",
+	"name": "Hiding Easter eggs"
+},
+{
+	"code": ">:/",
+	"name": "Bring it On"
+},
+{
+	"code": "i)",
+	"name": "Wink"
+},
+{
+	"code": "( ˘ ³˘)♥",
+	"name": "Kiss me"
+},
+{
+	"code": "|^O",
+	"name": "Snoring"
+},
+{
+	"code": ";w;",
+	"name": "Weeping"
+},
+{
+	"code": "ಥ_ಥ",
+	"name": "Bawling"
+},
+{
+	"code": "o/",
+	"name": "Golf"
+},
+{
+	"code": ":-{ }",
+	"name": "Talking"
+},
+{
+	"code": "◔̯◔",
+	"name": "Rolling Eyes"
+},
+{
+	"code": "|д･)",
+	"name": "Hiding"
+},
+{
+	"code": ":D<",
+	"name": "Hugs"
+},
+{
+	"code": "（*＾3＾）",
+	"name": "Pucker up"
+},
+{
+	"code": "(ó ì_í)=óò=(ì_í ò)",
+	"name": "Bro Pound"
+},
+{
+	"code": "[-o<",
+		"name": "Praying"
+},
+{
+	"code": ">:D<",
+	"name": "Big Hug"
+},
+{
+	"code": "( ^_^)／",
+	"name": "Waving"
+},
+{
+	"code": "Facebookノ( º _ ºノ)",
+	"name": "Putting Facebook back after flipping it"
+},
+{
+	"code": "d=(´▽｀)=b",
+	"name": "Hug me"
+},
+{
+	"code": ":^J",
+	"name": "Smiling"
+},
+{
+	"code": "(/ _ < )",
+	"name": "Facepalm"
+},
+{
+	"code": "(。･_･)ノ”【】",
+	"name": "Painting"
+},
+{
+	"code": "(_ _)..ooOO",
+	"name": "Dreaming"
+},
+{
+	"code": "(-}{-)",
+	"name": "Kissing"
+	},
+	{
+		"code": ";-)",
+		"name": "Winking"
+	},
+	{
+		"code": "ヽ(⌐■_■)ノ♪♬",
+		"name": "Boogie down"
+	},
+	{
+		"code": "v.v",
+		"name": "Sad"
+	},
+	{
+		"code": "(>^.^)> <3 <(^.^<)",
+		"name": "Love"
+	},
+	{
+		"code": "#^_^#",
+		"name": "Blushing"
+	},
+	{
+		"code": "(″･ิ_･ิ)っ",
+		"name": "Wait"
+	},
+	{
+		"code": "(/-_·)/D····>",
+		"name": "Bow and Arrow"
+	},
+	{
+		"code": "ε=┌(^-^)┘",
+		"name": "Skipping"
+	},
+	{
+		"code": ":P@---",
+		"name": "Lollipop"
+	},
+	{
+		"code": "(smirk)",
+		"name": "Smirking"
+	},
+	{
+		"code": "(giggle)",
+		"name": "Giggling"
+	},
+	{
+		"code": "\\(>o<)/",
+		"name": "Panicking"
+	},
+	{
+		"code": "((((((^_^;)",
+			"name": "Evading"
+	},
+	{
+		"code": "O7",
+		"name": "Salute"
+	},
+	{
+		"code": "♪(●′▽`)ﾉ",
+		"name": "Good Night"
+	},
+	{
+		"code": "(´ー｀)┌ﾌｯ",
+		"name": "Golf Clap"
+	},
+	{
+		"code": "(づ￣ ³￣)づ",
+		"name": "Smooch"
+	},
+	{
+		"code": "( •_•)O °Q(•_• )",
+		"name": "Playing Ping Pong"
+	},
+	{
+		"code": ":-Þ",
+		"name": "Teasing"
+	},
+	{
+		"code": "(bye)",
+		"name": "Wave"
+	},
+	{
+		"code": "¤\\( `⌂´ )/¤",
+		"name": "Lifting weights"
+	},
+	{
+		"code": "( ° ᴗ°)~ð ",
+		"name": "Proposal"
+	},
+	{
+		"code": "(nod)",
+		"name": "Nodding"
+	},
+	{
+		"code": "(;´ρ`)",
+		"name": "Yawning"
+	},
+	{
+		"code": "（￢з￢）σ",
+		"name": "Pointing"
+	},
+	{
+		"code": "( -_-)旦~",
+		"name": "Drinking"
+	},
+	{
+		"code": "(banghead)",
+		"name": "Banging Head on Wall"
+	},
+	{
+		"code": "＼(^o)(^0^)(o^)／",
+		"name": "Caroling"
+	},
+	{
+		"code": "P*",
+		"name": "French kiss"
+	},
+	{
+		"code": ":-@",
+		"name": "Screaming"
+	},
+	{
+		"code": "m( ﾟ皿ﾟ)m★━━",
+		"name": "Laser"
+	},
+	{
+		"code": ":-9",
+		"name": "Licking"
+	},
+	{
+		"code": "(-□-)︵*",
+		"name": "Blowing a Kiss"
+	},
+	{
+		"code": "(_X_)",
+		"name": "Kiss my Butt"
+	},
+	{
+		"code": "[{>.<}]",
+		"name": "Listening to music"
+	},
+	{
+		"code": "♫.(◠౪◠).♫",
+		"name": "Jamming to music"
+	},
+	{
+		"code": "(^^)//",
+		"name": "Applause"
+	},
+	{
+		"code": "( ｀o´)_θ☆",
+		"name": "Kicking"
+	},
+	{
+		"code": "＼(＾O＾)／",
+		"name": "Celebrate"
+	},
+	{
+		"code": ":-{  -__-:",
+			"name": "Stinky"
+		},
+		{
+			"code": "Q('.'Q)",
+			"name": "Put Em Up"
+		},
+		{
+			"code": ":-C.°.° ",
+			"name": "Vomiting"
+		},
+		{
+			"code": "__/\\o_",
+			"name": "Swimming"
+		},
+		{
+			"code": "┬─┬ノ( º _ ºノ)",
+			"name": "Putting Table Back"
+		},
+		{
+			"code": "（＿ε＿）",
+			"name": "Kiss my butt"
+		},
+		{
+			"code": "(handshake)",
+			"name": "Handshake"
+		},
+		{
+			"code": "(o´・Υ・)ﾉ･",
+			"name": "Help"
+		},
+		{
+			"code": "--===[}",
+				"name": "Pie Fight"
+	},
+	{
+		"code": "(*・_・)ノ⌒*",
+		"name": "Throwing Away"
+	},
+	{
+		"code": "(ToT)/~~~",
+		"name": "Goodbye"
+	},
+	{
+		"code": "(((((^_^)",
+			"name": "Teleporting"
+	},
+	{
+		"code": "ε=ε=ε=┌(๑ʘ∀ʘ)┘",
+		"name": "Sprinting"
+	},
+	{
+		"code": "<.< >.>",
+		"name": "Looking Around"
+	},
+	{
+		"code": "(_i_)",
+		"name": "Mooning"
+	},
+	{
+		"code": "*<|8-P~",
+		"name": "Partying Too Much"
+	},
+	{
+		"code": "----|}",
+		"name": "Pie Being Thrown"
+},
+{
+	"code": "<*_*>",
+	"name": "Looking at You"
+},
+{
+	"code": "{{{***}}}",
+	"name": "Hugs and Kisses"
+},
+{
+	"code": "～゜・_・゜～",
+	"name": "Raving"
+},
+{
+	"code": "m(_)m",
+	"name": "Apology"
+},
+{
+	"code": "<(;￣ ･￣)",
+	"name": "Scratching"
+},
+{
+	"code": ":*x",
+	"name": "Biting"
+},
+{
+	"code": "8->",
+	"name": "Daydreaming"
+},
+{
+	"code": ":-?",
+	"name": "Smoking a Pipe"
+},
+{
+	"code": ">:[",
+		"name": "Glaring"
+},
+{
+	"code": "^^",
+	"name": "Shoulder Shrug"
+},
+{
+	"code": "(puking)",
+	"name": "Puking"
+},
+{
+	"code": "(:|",
+		"name": "Sweating"
+},
+{
+	"code": "(^o^)",
+	"name": "Singing"
+},
+{
+	"code": "{*}",
+	"name": "Hug and Kiss"
+},
+{
+	"code": "（￣ー￣）",
+	"name": "Grinning"
+},
+{
+	"code": ":g",
+	"name": "Eating"
+},
+{
+	"code": "\\o/",
+	"name": "Cheer"
+},
+{
+	"code": "%-(",
+		"name": "Not Listening"
+},
+{
+	"code": "(x.x)9",
+	"name": "Shaking Fist"
+},
+{
+	"code": "\\o o/",
+	"name": "Greeting"
+},
+{
+	"code": ":-@!",
+	"name": "Cursing"
+},
+{
+	"code": ":-C~",
+	"name": "Barfing"
+},
+{
+	"code": "O/",
+	"name": "Praise The Lord"
+},
+{
+	"code": ":-`",
+	"name": "Spitting"
+},
+{
+	"code": "Q(''q) Q(''Q)",
+	"name": "Boxing"
+},
+{
+	"code": "___ψ(‥ )",
+	"name": "Studying"
+},
+{
+	"code": "（。_°☆＼(- – )",
+	"name": "Punch"
+},
+{
+	"code": "(•_•) ( •_•)>⌐■-■ (⌐■_■)",
+	"name": "Putting On Sunglasses"
+},
+{
+	"code": "┌|°з°|┘",
+	"name": "Cutting a rug"
+},
+{
+	"code": ":-V",
+	"name": "Shouting"
+},
+{
+	"code": ";;)",
+	"name": "Batting Eyelashes"
+},
+{
+	"code": "＼（－－）／",
+	"name": "Surrender"
+},
+{
+	"code": ":-`|",
+	"name": "Sniffling"
+},
+{
+	"code": "└(^o^)┐",
+	"name": "Grooving"
+},
+{
+	"code": ":-SS",
+	"name": "Nailbiting"
+},
+{
+	"code": "`\\('_')/`",
+	"name": "Shrug"
+},
+{
+	"code": "({)",
+		"name": "Left Hug"
+	},
+	{
+		"code": "ƪ(˘⌣˘)ʃ",
+		"name": "Raise the roof"
+	},
+	{
+		"code": "(})",
+		"name": "Right Hug"
+},
+{
+	"code": "*WHINING*",
+	"name": "Whining"
+},
+{
+	"code": "ᡕᠵ᠊ᡃ່࡚ࠢ࠘⸝່ࠡࠣ᠊᠆ࠣᡁࠣ࠘᠊᠊ࠢ࠘᠊᠊ࠢ࠘~♡",
+	"name": "Shot in the heart"
+},
+{
+	"code": "( ^□)_へ━━━━━⊃>°))))彡",
+	"name": "Fishing"
+},
+{
+	"code": "?_?",
+	"name": "Cold Stare"
+},
+{
+	"code": "｡｡｡(o_ _)o⌒☆",
+	"name": "Tripping"
+},
+{
+	"code": "（ つ Д ｀）",
+	"name": "Wiping Tears"
+},
+{
+	"code": "▼o･_･o▼",
+	"name": "Hello"
+},
+{
+	"code": ":]]",
+	"name": "Robot"
+},
+{
+	"code": "( `_)?(_' )",
+	"name": "Dueling"
+},
+{
+	"code": "[{-_-}]",
+	"name": "Baby"
+},
+{
+	"code": "٩◔̯◔۶",
+	"name": "Eye Roll With Hands Up"
+},
+{
+	"code": "t(-_-t)",
+	"name": "Flipping the bird"
+},
+{
+	"code": "_/\\_\\o/_",
+	"name": "Shark Attack"
+},
+{
+	"code": ":-<",
+	"name": "Sigh"
+},
+{
+	"code": "(p ^^)=====O",
+	"name": "Falcon Punch"
+},
+{
+	"code": "[[ ]]",
+	"name": "Hugged"
+},
+{
+	"code": "(u_u)",
+	"name": "Dead"
+},
+{
+	"code": ":}{:",
+	"name": "Kisses"
+	},
+	{
+		"code": "ヾ(｀ε´)ﾉ",
+		"name": "Booing"
+	},
+	{
+		"code": ":-r",
+		"name": "Concentrating"
+	},
+	{
+		"code": "^:-/",
+		"name": "Scratching Head"
+	},
+	{
+		"code": "(><)",
+		"name": "Squinting"
+	},
+	{
+		"code": "=))",
+		"name": "Rolling on the Floor Laughing"
+	},
+	{
+		"code": "q('-')p",
+		"name": "Thumbs Down"
+	},
+	{
+		"code": "p#d",
+		"name": "Fist Bump"
+	},
+	{
+		"code": "%OD",
+		"name": "Crazily laughing"
+	},
+	{
+		"code": "+-(",
+			"name": "Shot between the eyes"
+	},
+	{
+		"code": ":O=",
+		"name": "Vomit"
+	},
+	{
+		"code": "(|)",
+		"name": "Mooning You"
+	},
+	{
+		"code": "（´Д゜）/゜⌒。",
+		"name": "Discarding"
+	},
+	{
+		"code": "&-l",
+		"name": "Tearing up"
+	},
+	{
+		"code": ":.-)",
+		"name": "Laughing Tears"
+	},
+	{
+		"code": "/O",
+		"name": "Rimshot"
+	},
+	{
+		"code": ":pd:",
+		"name": "French Kiss"
+	},
+	{
+		"code": "C = (; '_')",
+		"name": "In a Hurry"
+	},
+	{
+		"code": "(clap)",
+		"name": "Clapping"
+	},
+	{
+		"code": "(makeup)",
+		"name": "Make-up"
+	},
+	{
+		"code": "(call)",
+		"name": "Call"
+	},
+	{
+		"code": "~~~~\\o/~~~~",
+		"name": "Drowning"
+	},
+	{
+		"code": "@@ -",
+		"name": "Watching"
+	},
+	{
+		"code": "(shake)",
+		"name": "Shaking"
+	},
+	{
+		"code": "(6.6)",
+		"name": "Fainting"
+	},
+	{
+		"code": "@|-)",
+		"name": "Meditating"
+	},
+	{
+		"code": ":&",
+		"name": "Puke"
+	},
+	{
+		"code": "O-&-<",
+		"name": "Folding Arms"
+	},
+	{
+		"code": "OTL",
+		"name": "Bent Over"
+	},
+	{
+		"code": "▀▀▒=(.)=▒r▀▀",
+		"name": "Shooting"
+	},
+	{
+		"code": "\\,,/(>.<)\\,,/",
+		"name": "Head Banging"
+	},
+	{
+		"code": ">~<",
+		"name": "Translate"
+	},
+	{
+		"code": "(whew)",
+		"name": "Whew"
+	},
+	{
+		"code": "__.",
+		"name": "Lying Down"
+	},
+	{
+		"code": "(pu)",
+		"name": "Point Up"
+	},
+	{
+		"code": "-[[•]]--[()]-",
+		"name": "Police Chase"
+	},
+	{
+		"code": "[]---|<O---[]",
+		"name": "Tight Rope"
+	},
+	{
+		"code": "O>-O>-|-<O-<O",
+		"name": "Tug of War"
+	},
+	{
+		"code": "~/~",
+		"name": "Stirring"
+	},
+	{
+		"code": "*8=(:",
+			"name": "Blubbering"
+	},
+	{
+		"code": ":-a",
+		"name": "Tongue Touching Nose"
+	},
+	{
+		"code": "m(-_-)m",
+		"name": "Begging"
+	},
+	{
+		"code": "(p >_>)--D C--(<_< q)",
+		"name": "Wonder Twins"
+	},
+	{
+		"code": "(o^_^)o",
+		"name": "Victory"
+	},
+	{
+		"code": "(yn)",
+		"name": "Fingers Crossed"
+	},
+	{
+		"code": "8-O --*",
+		"name": "Side Cramp"
+	},
+	{
+		"code": ":-#",
+		"name": "Braces"
+	},
+	{
+		"code": "\\m/",
+		"name": "Metal"
+	},
+	{
+		"code": "0:)",
+		"name": "Angel"
+	},
+	{
+		"code": ":)]",
+		"name": "On the Phone"
+	},
+	{
+		"code": "(_|_)",
+		"name": "Butt"
+	},
+	{
+		"code": "-_-;",
+		"name": "Anime Sweat Drop"
+	},
+	{
+		"code": "#",
+		"name": "Hashtag"
+	},
+	{
+		"code": "(<>..<>)",
+		"name": "Alien"
+	},
+	{
+		"code": "(~);}",
+		"name": "Stealie"
+},
+{
+	"code": "((o))",
+	"name": "Sunshine"
+},
+{
+	"code": "^,..,^",
+	"name": "Fangs"
+},
+{
+	"code": ":-t",
+	"name": "Time Out"
+},
+{
+	"code": "(~};)",
+	"name": "Grateful Dead"
+},
+{
+	"code": ":*)?",
+	"name": "Drunk"
+},
+{
+	"code": "@",
+	"name": "Mention"
+},
+{
+	"code": "8==8",
+	"name": "Seeing Eye to Eye"
+},
+{
+	"code": "*-:)",
+	"name": "Idea"
+},
+{
+	"code": "*STOP*",
+	"name": "Stop"
+},
+{
+	"code": ":42:",
+	"name": "Answer to Everything"
+},
+{
+	"code": "(>'.')>#",
+	"name": "Waffle"
+},
+{
+	"code": "(Y)",
+	"name": "Like"
+},
+{
+	"code": "*\\o/*",
+	"name": "Yay"
+},
+{
+	"code": "~♥~",
+	"name": "Love"
+},
+{
+	"code": "‎(>o<)ρミ┳┷┳゜",
+	"name": "Table Tennis"
+},
+{
+	"code": ":-$",
+	"name": "Do Not Tell Anyone"
+},
+{
+	"code": "༼ঢ_㇁ঢ༽",
+	"name": "Bad hair day"
+},
+{
+	"code": "\\\\m/(=o+)\\m//",
+	"name": "Rocking"
+},
+{
+	"code": "(skype)",
+	"name": "Skype"
+},
+{
+	"code": "O-S-<",
+	"name": "In a hurry"
+},
+{
+	"code": "<3+<3",
+	"name": "In Love"
+},
+{
+	"code": "*<|:o)",
+	"name": "Happy Birthday"
+},
+{
+	"code": "*:*",
+	"name": "Fuzzy"
+},
+{
+	"code": ":!!",
+	"name": "Hurry Up"
+},
+{
+	"code": "~o)",
+	"name": "Reproduction"
+},
+{
+	"code": ":~)",
+	"name": "Long Nose"
+},
+{
+	"code": "(k)",
+	"name": "Red Lips"
+},
+{
+	"code": ":^o",
+	"name": "Liar Liar"
+},
+{
+	"code": "(@)",
+	"name": "In a Nut Shell"
+},
+{
+	"code": "(m)",
+	"name": "MSN Messenger"
+},
+{
+	"code": "($)",
+	"name": "Cash"
+},
+{
+	"code": "()}:o)",
+	"name": "Devil"
+},
+{
+	"code": "?:-)",
+	"name": "Fancy Hair"
+},
+{
+	"code": ":-| :-|",
+	"name": "Deja Vu"
+},
+{
+	"code": ";^!",
+	"name": "Secret"
+},
+{
+	"code": ":-M",
+	"name": "Speak no Evil"
+},
+{
+	"code": "(st)",
+	"name": "Stormy Cloud"
+},
+{
+	"code": ":-*",
+	"name": "Secret Telling"
+},
+{
+	"code": ":-#",
+	"name": "Lips are Sealed"
+},
+{
+	"code": "(brb)",
+	"name": "Be Right Back"
+},
+{
+	"code": "l8r)",
+	"name": "Later"
+},
+{
+	"code": "<:o)",
+	"name": "Party"
+},
+{
+	"code": "(li)",
+	"name": "Lightning"
+},
+{
+	"code": "(ip)",
+	"name": "Island with a Palm Tree"
+},
+{
+	"code": ":-c",
+	"name": "Call Me"
+},
+{
+	"code": "=X",
+	"name": "Oops"
+},
+{
+	"code": "=;",
+	"name": "Talk to the Hand"
+},
+{
+	"code": ":&",
+	"name": "Fail"
+},
+{
+	"code": "(%)",
+	"name": "Yin Yang"
+},
+{
+	"code": "*p*",
+	"name": "Peace"
+},
+{
+	"code": "_\\m/",
+	"name": "I Love You"
+},
+{
+	"code": "(poolparty)",
+	"name": "Pool Party"
+},
+{
+	"code": "(^-^:)",
+	"name": "Vampire Bite"
+},
+{
+	"code": "((-_(-_-)_-))",
+	"name": "Care Crowd"
+},
+{
+	"code": "ミ田",
+	"name": "Windows"
+},
+{
+	"code": "_\\|/_",
+	"name": "Sunset"
+},
+{
+	"code": "(rain)",
+	"name": "Rain"
+},
+{
+	"code": "_/\\_",
+	"name": "Prayer"
+},
+{
+	"code": ":?:",
+	"name": "Question"
+},
+{
+	"code": "/\\'s",
+	"name": "Prayers"
+},
+{
+	"code": ":!:",
+	"name": "Important"
+},
+{
+	"code": "3>(",
+		"name": "Geezer"
+},
+{
+	"code": "^-.-^ Zzzzz",
+	"name": "Cat Nap"
+},
+{
+	"code": "\\000/",
+	"name": "Shaka"
+},
+{
+	"code": "00000000",
+	"name": "Toes"
+},
+{
+	"code": "<2",
+	"name": "Not quite love"
+},
+{
+	"code": "(music)",
+	"name": "Music"
+},
+{
+	"code": ":-0 hbtu 0-:",
+	"name": "Happy Birthday To You"
+},
+{
+	"code": "(~)",
+	"name": "Movie"
+},
+{
+	"code": "<u3",
+	"name": "Heart"
+},
+{
+	"code": "[-x",
+		"name": "Shame on You"
+},
+{
+	"code": "*help",
+	"name": "IM"
+},
+{
+	"code": "~#|__/~~\\o/~",
+	"name": "Overboard"
+},
+{
+	"code": "== 0>--< ==",
+	"name": "Run Over"
+},
+{
+	"code": "O -- [] -- ✄",
+	"name": "Rock Paper Scissors"
+},
+{
+	"code": ":arrow:",
+	"name": "Arrow"
+},
+{
+	"code": "(myspace)",
+	"name": "Myspace"
+},
+{
+	"code": ":-s",
+	"name": "Bizzare Comment"
+}
+	]
+}
