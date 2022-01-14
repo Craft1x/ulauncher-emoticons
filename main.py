@@ -60,7 +60,7 @@ class KeywordQueryEventListener(EventListener):
         return ExtensionResultItem(
             icon='images/sub-icon.png',
             name=match['code'],
-#            description=match['description'],
+            description=match['name'],
             on_enter=main_action,
             on_alt_enter=alt_action
         )
